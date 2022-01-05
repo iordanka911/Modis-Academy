@@ -1,3 +1,6 @@
 react Markdown alternatives
 
 materializecss
+
+
+npm install --legacy-peer-deps
